@@ -1,0 +1,22 @@
+package com.mgf;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.boot.test.context.SpringBootTest;
+
+import com.mgf.testcondition.Head;
+
+@SpringBootTest
+class SpringBootDemoApplicationTests {
+    @Autowired
+	Head head;
+    
+    
+	void contextLoads() {
+		
+	}
+	
+	public void Test() {
+		System.out.println(head);
+	}
+
+}

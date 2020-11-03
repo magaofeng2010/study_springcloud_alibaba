@@ -1,0 +1,5 @@
+package com.mgf.testImportSelector;
+
+public @interface EnableAutoImportMgf {
+
+}

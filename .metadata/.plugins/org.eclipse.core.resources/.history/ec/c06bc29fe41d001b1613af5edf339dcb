@@ -1,0 +1,12 @@
+package com.mgf.testcondition;
+
+import org.springframework.boot.autoconfigure.condition.ConditionalOnProperty;
+import org.springframework.context.annotation.Configuration;
+
+//@ConditionalOnProperty
+@Configuration
+@ConditionalOnProperty(value="mgf.bean.enable",havingValue="true")
+public class ConditionConfig {
+
+	
+}
