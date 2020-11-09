@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: dubbo-admin
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: flp
+Implementation-Vendor-Id: com.alibaba
+Build-Jdk: 1.8.0_152
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/dubbo-admin
+Created-By: Maven Integration for Eclipse
+
