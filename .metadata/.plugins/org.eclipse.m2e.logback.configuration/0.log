@@ -8027,3 +8027,348 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact com.mgf.dubbo
 2020-12-03 23:08:30,507 [Worker-243: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2020-12-03 23:09:06,579 [Worker-246: Launching OrderServiceMain] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/dubbo-common-api: com.mgf.dubbo:common-api:0.0.1-SNAPSHOT with classifier null to /dubbo-common-api/target/classes
 2020-12-03 23:09:06,591 [Worker-246: Launching OrderServiceMain] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/dubbo-common-api: com.mgf.dubbo:common-api:0.0.1-SNAPSHOT with classifier null to /dubbo-common-api/target/classes
+2020-12-03 23:17:07,514 [Worker-230: Import Getting Started Content] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.thoughtworks.qdox:qdox:jar:2.0-M9 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2020-12-03 23:17:07,655 [Worker-230: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mgf.boot.dubbo:user-service:0.0.1-SNAPSHOT @ E:\workspace\eclipse\springcloud-alibaba\demo\pom.xml.
+2020-12-03 23:17:10,611 [Worker-230: Import Getting Started Content] WARN  o.e.m.j.i.AbstractJavaProjectConfigurator - Could not determine source level, using default 1.5
+2020-12-03 23:17:10,612 [Worker-230: Import Getting Started Content] WARN  o.e.m.j.i.AbstractJavaProjectConfigurator - Could not determine target level, using default 1.5
+2020-12-03 23:17:10,784 [Worker-230: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demo/src/main/java
+2020-12-03 23:17:10,784 [Worker-230: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demo/src/main/resources
+2020-12-03 23:17:10,789 [Worker-230: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demo/src/main/resources
+2020-12-03 23:17:10,797 [Worker-230: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demo/src/test/java
+2020-12-03 23:17:11,167 [Worker-230: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 4 sec
+2020-12-03 23:17:11,168 [Worker-230: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-12-03 23:17:11,480 [Worker-230: Import Getting Started Content] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.thoughtworks.qdox:qdox:jar:2.0-M9 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2020-12-03 23:17:11,541 [Worker-230: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mgf.boot.dubbo:user-service:0.0.1-SNAPSHOT @ E:\workspace\eclipse\springcloud-alibaba\demo\pom.xml.
+2020-12-03 23:17:13,151 [Worker-230: Import Getting Started Content] WARN  o.e.m.j.i.AbstractJavaProjectConfigurator - Could not determine source level, using default 1.5
+2020-12-03 23:17:13,151 [Worker-230: Import Getting Started Content] WARN  o.e.m.j.i.AbstractJavaProjectConfigurator - Could not determine target level, using default 1.5
+2020-12-03 23:17:13,344 [Worker-230: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demo/src/main/java
+2020-12-03 23:17:13,344 [Worker-230: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demo/src/main/resources
+2020-12-03 23:17:13,347 [Worker-230: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demo/src/main/resources
+2020-12-03 23:17:13,352 [Worker-230: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demo/src/test/java
+2020-12-03 23:17:13,769 [Worker-230: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2020-12-03 23:17:14,590 [Worker-254: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-03 23:17:14,590 [Worker-254: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-03 23:17:14,605 [Worker-254: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-03 23:17:14,606 [Worker-254: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-03 23:17:14,606 [Worker-254: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace\eclipse\springcloud-alibaba\demo\src\test\resources
+2020-12-03 23:17:16,024 [Worker-250: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-03 23:17:16,026 [Worker-250: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-03 23:17:16,026 [Worker-250: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-03 23:17:16,027 [Worker-250: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-03 23:17:16,027 [Worker-250: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace\eclipse\springcloud-alibaba\demo\src\test\resources
+2020-12-03 23:18:12,603 [Worker-248: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.thoughtworks.qdox:qdox:jar:2.0-M9 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2020-12-03 23:18:12,735 [Worker-248: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mgf.boot.dubbo:user-service:0.0.1-SNAPSHOT @ E:\workspace\eclipse\springcloud-alibaba\springboot-dubbo-provider\pom.xml.
+2020-12-03 23:18:13,973 [Worker-248: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-03 23:18:13,974 [Worker-248: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-03 23:18:13,991 [Worker-248: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-03 23:18:13,993 [Worker-248: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-03 23:18:13,993 [Worker-248: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace\eclipse\springcloud-alibaba\springboot-dubbo-provider\src\test\resources
+2020-12-03 23:18:16,079 [Worker-241: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-03 23:18:16,081 [Worker-241: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-03 23:18:16,083 [Worker-241: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-03 23:18:16,084 [Worker-241: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-03 23:18:16,084 [Worker-241: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace\eclipse\springcloud-alibaba\springboot-dubbo-provider\src\test\resources
+2020-12-03 23:19:31,138 [Worker-253: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.thoughtworks.qdox:qdox:jar:2.0-M9 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2020-12-03 23:19:31,207 [Worker-253: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mgf.boot.dubbo:user-service:0.0.1-SNAPSHOT @ E:\workspace\eclipse\springcloud-alibaba\springboot-dubbo-provider\pom.xml.
+2020-12-03 23:19:31,820 [Worker-253: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-03 23:19:31,823 [Worker-253: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-03 23:19:31,823 [Worker-253: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-03 23:19:31,824 [Worker-253: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-03 23:19:31,824 [Worker-253: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace\eclipse\springcloud-alibaba\springboot-dubbo-provider\src\test\resources
+2020-12-03 23:20:30,958 [Worker-248: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.thoughtworks.qdox:qdox:jar:2.0-M9 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2020-12-03 23:20:31,019 [Worker-248: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mgf.boot.dubbo:user-service:0.0.1-SNAPSHOT @ E:\workspace\eclipse\springcloud-alibaba\springboot-dubbo-provider\pom.xml.
+2020-12-03 23:20:31,838 [Worker-248: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-03 23:20:31,841 [Worker-248: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-03 23:20:31,841 [Worker-248: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-03 23:20:31,842 [Worker-248: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-03 23:20:31,842 [Worker-248: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace\eclipse\springcloud-alibaba\springboot-dubbo-provider\src\test\resources
+2020-12-03 23:20:47,280 [Worker-250: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.thoughtworks.qdox:qdox:jar:2.0-M9 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2020-12-03 23:20:47,612 [Worker-250: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mgf.boot.dubbo:user-service:0.0.1-SNAPSHOT @ E:\workspace\eclipse\springcloud-alibaba\springboot-dubbo-provider\pom.xml.
+2020-12-03 23:20:48,040 [Worker-250: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-03 23:20:48,043 [Worker-250: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-03 23:20:48,043 [Worker-250: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-03 23:20:48,044 [Worker-250: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-03 23:20:48,044 [Worker-250: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace\eclipse\springcloud-alibaba\springboot-dubbo-provider\src\test\resources
+2020-12-03 23:20:49,941 [Worker-250: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-03 23:20:49,946 [Worker-250: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-03 23:20:49,955 [Worker-250: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-03 23:20:49,956 [Worker-250: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-03 23:20:49,956 [Worker-250: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace\eclipse\springcloud-alibaba\springboot-dubbo-provider\src\test\resources
+2020-12-03 23:21:12,309 [Worker-253: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.thoughtworks.qdox:qdox:jar:2.0-M9 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2020-12-03 23:21:12,368 [Worker-253: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mgf.boot.dubbo:user-service:0.0.1-SNAPSHOT @ E:\workspace\eclipse\springcloud-alibaba\springboot-dubbo-provider\pom.xml.
+2020-12-03 23:21:12,742 [Worker-253: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-03 23:21:12,744 [Worker-253: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-03 23:21:12,744 [Worker-253: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-03 23:21:12,745 [Worker-253: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-03 23:21:12,746 [Worker-253: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace\eclipse\springcloud-alibaba\springboot-dubbo-provider\src\test\resources
+2020-12-03 23:21:14,953 [Worker-241: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-03 23:21:14,954 [Worker-241: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-03 23:21:14,968 [Worker-241: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-03 23:21:14,970 [Worker-241: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-03 23:21:14,970 [Worker-241: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace\eclipse\springcloud-alibaba\springboot-dubbo-provider\src\test\resources
+2020-12-03 23:21:49,126 [Worker-253: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-03 23:21:49,126 [Worker-253: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-03 23:21:49,128 [Worker-253: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-03 23:21:49,129 [Worker-253: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-03 23:21:49,129 [Worker-253: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace\eclipse\springcloud-alibaba\springboot-dubbo-provider\src\test\resources
+2020-12-03 23:22:54,212 [Worker-250: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.thoughtworks.qdox:qdox:jar:2.0-M9 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2020-12-03 23:22:54,275 [Worker-250: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mgf.boot.dubbo:user-service:0.0.1-SNAPSHOT @ E:\workspace\eclipse\springcloud-alibaba\springboot-dubbo-provider\pom.xml.
+2020-12-03 23:22:54,897 [Worker-250: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/dubbo/dubbo-spring-boot-starter/2.7.5/dubbo-spring-boot-starter-2.7.5.pom
+2020-12-03 23:22:55,030 [Worker-250: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/dubbo/dubbo-spring-boot-starter/2.7.5/dubbo-spring-boot-starter-2.7.5.pom
+2020-12-03 23:22:55,388 [Worker-250: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/dubbo/dubbo-spring-boot-parent/2.7.5/dubbo-spring-boot-parent-2.7.5.pom
+2020-12-03 23:22:55,541 [Worker-250: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/dubbo/dubbo-spring-boot-parent/2.7.5/dubbo-spring-boot-parent-2.7.5.pom
+2020-12-03 23:22:55,750 [Worker-250: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/dubbo/dubbo-spring-boot-project/2.7.5/dubbo-spring-boot-project-2.7.5.pom
+2020-12-03 23:22:55,890 [Worker-250: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/dubbo/dubbo-spring-boot-project/2.7.5/dubbo-spring-boot-project-2.7.5.pom
+2020-12-03 23:22:56,231 [Worker-250: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/dubbo/dubbo-spring-boot-autoconfigure/2.7.5/dubbo-spring-boot-autoconfigure-2.7.5.pom
+2020-12-03 23:22:56,395 [Worker-250: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/dubbo/dubbo-spring-boot-autoconfigure/2.7.5/dubbo-spring-boot-autoconfigure-2.7.5.pom
+2020-12-03 23:22:56,568 [Worker-250: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/dubbo/dubbo-spring-boot-autoconfigure-compatible/2.7.5/dubbo-spring-boot-autoconfigure-compatible-2.7.5.pom
+2020-12-03 23:22:56,702 [Worker-250: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/dubbo/dubbo-spring-boot-autoconfigure-compatible/2.7.5/dubbo-spring-boot-autoconfigure-compatible-2.7.5.pom
+2020-12-03 23:22:56,879 [Worker-250: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/dubbo/dubbo-spring-boot-compatible/2.7.5/dubbo-spring-boot-compatible-2.7.5.pom
+2020-12-03 23:22:57,022 [Worker-250: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/dubbo/dubbo-spring-boot-compatible/2.7.5/dubbo-spring-boot-compatible-2.7.5.pom
+2020-12-03 23:22:57,295 [Worker-250: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for io.netty:netty-all:jar:4.1.53.Final is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2020-12-03 23:22:58,095 [Worker-250: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/dubbo/dubbo-spring-boot-starter/2.7.5/dubbo-spring-boot-starter-2.7.5.jar
+2020-12-03 23:22:58,265 [Worker-250: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/dubbo/dubbo-spring-boot-starter/2.7.5/dubbo-spring-boot-starter-2.7.5.jar
+2020-12-03 23:22:58,484 [Worker-250: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/dubbo/dubbo-spring-boot-autoconfigure/2.7.5/dubbo-spring-boot-autoconfigure-2.7.5.jar
+2020-12-03 23:22:58,731 [Worker-250: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/dubbo/dubbo-spring-boot-autoconfigure/2.7.5/dubbo-spring-boot-autoconfigure-2.7.5.jar
+2020-12-03 23:22:58,937 [Worker-250: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/dubbo/dubbo-spring-boot-autoconfigure-compatible/2.7.5/dubbo-spring-boot-autoconfigure-compatible-2.7.5.jar
+2020-12-03 23:22:59,203 [Worker-250: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/dubbo/dubbo-spring-boot-autoconfigure-compatible/2.7.5/dubbo-spring-boot-autoconfigure-compatible-2.7.5.jar
+2020-12-03 23:22:59,766 [Worker-250: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-03 23:22:59,769 [Worker-250: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-03 23:22:59,769 [Worker-250: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-03 23:22:59,771 [Worker-250: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-03 23:22:59,771 [Worker-250: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace\eclipse\springcloud-alibaba\springboot-dubbo-provider\src\test\resources
+2020-12-03 23:23:01,290 [Worker-252: Download sources and javadoc] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for io.netty:netty-all:jar:4.1.53.Final is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2020-12-03 23:23:01,403 [Worker-250: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-03 23:23:01,403 [Worker-250: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-03 23:23:01,420 [Worker-250: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-03 23:23:01,421 [Worker-250: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-03 23:23:01,421 [Worker-250: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace\eclipse\springcloud-alibaba\springboot-dubbo-provider\src\test\resources
+2020-12-03 23:23:02,306 [Worker-252: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/dubbo/dubbo-spring-boot-starter/2.7.5/dubbo-spring-boot-starter-2.7.5-sources.jar
+2020-12-03 23:23:02,477 [Worker-252: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/dubbo/dubbo-spring-boot-starter/2.7.5/dubbo-spring-boot-starter-2.7.5-sources.jar
+2020-12-03 23:23:02,560 [Worker-252: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.dubbo:dubbo-spring-boot-starter:2.7.5
+2020-12-03 23:23:02,820 [Worker-252: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/dubbo/dubbo-spring-boot-autoconfigure/2.7.5/dubbo-spring-boot-autoconfigure-2.7.5-sources.jar
+2020-12-03 23:23:03,005 [Worker-252: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/dubbo/dubbo-spring-boot-autoconfigure/2.7.5/dubbo-spring-boot-autoconfigure-2.7.5-sources.jar
+2020-12-03 23:23:03,082 [Worker-252: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.dubbo:dubbo-spring-boot-autoconfigure:2.7.5
+2020-12-03 23:23:03,296 [Worker-252: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/apache/dubbo/dubbo-spring-boot-autoconfigure-compatible/2.7.5/dubbo-spring-boot-autoconfigure-compatible-2.7.5-sources.jar
+2020-12-03 23:23:03,523 [Worker-252: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/apache/dubbo/dubbo-spring-boot-autoconfigure-compatible/2.7.5/dubbo-spring-boot-autoconfigure-compatible-2.7.5-sources.jar
+2020-12-03 23:23:03,607 [Worker-252: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.dubbo:dubbo-spring-boot-autoconfigure-compatible:2.7.5
+2020-12-03 23:23:04,246 [Worker-254: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-03 23:23:04,247 [Worker-254: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-03 23:23:04,247 [Worker-254: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-03 23:23:04,248 [Worker-254: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-03 23:23:04,248 [Worker-254: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace\eclipse\springcloud-alibaba\springboot-dubbo-provider\src\test\resources
+2020-12-03 23:23:11,597 [Worker-241: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.thoughtworks.qdox:qdox:jar:2.0-M9 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2020-12-03 23:23:11,657 [Worker-241: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mgf.boot.dubbo:user-service:0.0.1-SNAPSHOT @ E:\workspace\eclipse\springcloud-alibaba\springboot-dubbo-provider\pom.xml.
+2020-12-03 23:23:11,828 [Worker-241: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for io.netty:netty-all:jar:4.1.53.Final is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2020-12-03 23:23:12,129 [Worker-241: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-03 23:23:12,131 [Worker-241: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-03 23:23:12,132 [Worker-241: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-03 23:23:12,133 [Worker-241: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-03 23:23:12,133 [Worker-241: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace\eclipse\springcloud-alibaba\springboot-dubbo-provider\src\test\resources
+2020-12-03 23:23:35,538 [Worker-252: reload maven project] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for io.netty:netty-all:jar:4.1.53.Final is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2020-12-03 23:23:35,643 [Worker-252: reload maven project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/dubbo-common-api: com.mgf.dubbo:common-api:0.0.1-SNAPSHOT with classifier  to /dubbo-common-api/target/classes
+2020-12-03 23:23:35,699 [Worker-254: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.thoughtworks.qdox:qdox:jar:2.0-M9 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2020-12-03 23:23:35,771 [Worker-254: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mgf.boot.dubbo:user-service:0.0.1-SNAPSHOT @ E:\workspace\eclipse\springcloud-alibaba\springboot-dubbo-provider\pom.xml.
+2020-12-03 23:23:35,978 [Worker-254: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for io.netty:netty-all:jar:4.1.53.Final is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2020-12-03 23:23:36,031 [Worker-254: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/dubbo-common-api: com.mgf.dubbo:common-api:0.0.1-SNAPSHOT with classifier  to /dubbo-common-api/target/classes
+2020-12-03 23:23:36,519 [Worker-254: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-03 23:23:36,523 [Worker-254: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-03 23:23:36,524 [Worker-254: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-03 23:23:36,526 [Worker-254: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-03 23:23:36,526 [Worker-254: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace\eclipse\springcloud-alibaba\springboot-dubbo-provider\src\test\resources
+2020-12-03 23:23:38,188 [Worker-241: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for io.netty:netty-all:jar:4.1.53.Final is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2020-12-03 23:23:38,271 [Worker-241: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/dubbo-common-api: com.mgf.dubbo:common-api:0.0.1-SNAPSHOT with classifier  to /dubbo-common-api/target/classes
+2020-12-03 23:23:38,458 [Worker-241: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-03 23:23:38,462 [Worker-241: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-03 23:23:38,472 [Worker-241: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-03 23:23:38,473 [Worker-241: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-03 23:23:38,473 [Worker-241: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace\eclipse\springcloud-alibaba\springboot-dubbo-provider\src\test\resources
+2020-12-03 23:24:24,372 [Worker-253: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-03 23:24:24,373 [Worker-253: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-03 23:24:24,374 [Worker-253: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-03 23:24:24,375 [Worker-253: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-03 23:24:24,375 [Worker-253: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace\eclipse\springcloud-alibaba\springboot-dubbo-provider\src\test\resources
+2020-12-03 23:24:37,972 [Worker-253: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-03 23:24:37,972 [Worker-253: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-03 23:24:37,973 [Worker-253: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-03 23:24:37,974 [Worker-253: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-03 23:24:37,975 [Worker-253: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace\eclipse\springcloud-alibaba\springboot-dubbo-provider\src\test\resources
+2020-12-03 23:25:33,959 [Worker-248: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-03 23:25:33,960 [Worker-248: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-03 23:25:33,961 [Worker-248: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-03 23:25:33,962 [Worker-248: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-03 23:25:33,962 [Worker-248: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace\eclipse\springcloud-alibaba\springboot-dubbo-provider\src\test\resources
+2020-12-03 23:25:45,709 [Worker-241: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-03 23:25:45,710 [Worker-241: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-03 23:25:45,711 [Worker-241: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-03 23:25:45,712 [Worker-241: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-03 23:25:45,712 [Worker-241: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace\eclipse\springcloud-alibaba\springboot-dubbo-provider\src\test\resources
+2020-12-03 23:26:57,024 [Worker-241: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-03 23:26:57,025 [Worker-241: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-03 23:26:57,027 [Worker-241: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-03 23:26:57,028 [Worker-241: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-03 23:26:57,028 [Worker-241: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace\eclipse\springcloud-alibaba\springboot-dubbo-provider\src\test\resources
+2020-12-03 23:27:12,696 [Worker-255: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-03 23:27:12,696 [Worker-255: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-03 23:27:12,697 [Worker-255: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-03 23:27:12,698 [Worker-255: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-03 23:27:12,698 [Worker-255: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace\eclipse\springcloud-alibaba\springboot-dubbo-provider\src\test\resources
+2020-12-03 23:27:39,227 [Worker-253: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-03 23:27:39,227 [Worker-253: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-03 23:27:39,228 [Worker-253: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-03 23:27:39,231 [Worker-253: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-03 23:27:39,232 [Worker-253: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace\eclipse\springcloud-alibaba\springboot-dubbo-provider\src\test\resources
+2020-12-03 23:28:03,485 [Worker-241: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-03 23:28:03,485 [Worker-241: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-03 23:28:03,486 [Worker-241: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-03 23:28:03,486 [Worker-241: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-03 23:28:03,486 [Worker-241: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace\eclipse\springcloud-alibaba\springboot-dubbo-provider\src\test\resources
+2020-12-03 23:28:33,137 [Worker-241: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-03 23:28:33,137 [Worker-241: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-03 23:28:33,138 [Worker-241: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-03 23:28:33,139 [Worker-241: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-03 23:28:33,139 [Worker-241: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace\eclipse\springcloud-alibaba\springboot-dubbo-provider\src\test\resources
+2020-12-03 23:29:20,510 [Worker-256: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-03 23:29:20,511 [Worker-256: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-03 23:29:20,511 [Worker-256: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-03 23:29:20,512 [Worker-256: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-03 23:29:20,512 [Worker-256: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace\eclipse\springcloud-alibaba\springboot-dubbo-provider\src\test\resources
+2020-12-03 23:29:45,476 [Worker-254: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-03 23:29:45,476 [Worker-254: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-03 23:29:45,477 [Worker-254: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-03 23:29:45,477 [Worker-254: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-03 23:29:45,478 [Worker-254: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace\eclipse\springcloud-alibaba\springboot-dubbo-provider\src\test\resources
+2020-12-03 23:29:48,165 [Worker-254: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-03 23:29:48,165 [Worker-254: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-03 23:29:48,166 [Worker-254: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-03 23:29:48,167 [Worker-254: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-03 23:29:48,167 [Worker-254: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace\eclipse\springcloud-alibaba\springboot-dubbo-provider\src\test\resources
+2020-12-03 23:29:50,306 [Worker-254: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-03 23:29:50,306 [Worker-254: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-03 23:29:50,307 [Worker-254: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-03 23:29:50,308 [Worker-254: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-03 23:29:50,308 [Worker-254: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace\eclipse\springcloud-alibaba\springboot-dubbo-provider\src\test\resources
+2020-12-03 23:30:07,441 [Worker-256: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-03 23:30:07,442 [Worker-256: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-03 23:30:07,443 [Worker-256: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-03 23:30:07,444 [Worker-256: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-03 23:30:07,444 [Worker-256: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace\eclipse\springcloud-alibaba\springboot-dubbo-provider\src\test\resources
+2020-12-03 23:30:38,852 [Worker-241: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-03 23:30:38,852 [Worker-241: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-03 23:30:38,853 [Worker-241: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-03 23:30:38,855 [Worker-241: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-03 23:30:38,855 [Worker-241: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace\eclipse\springcloud-alibaba\springboot-dubbo-provider\src\test\resources
+2020-12-03 23:30:55,705 [Worker-250: Launching springboot-dubbo-provider - ProviderApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/dubbo-common-api: com.mgf.dubbo:common-api:0.0.1-SNAPSHOT with classifier null to /dubbo-common-api/target/classes
+2020-12-03 23:30:55,729 [Worker-250: Launching springboot-dubbo-provider - ProviderApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/dubbo-common-api: com.mgf.dubbo:common-api:0.0.1-SNAPSHOT with classifier null to /dubbo-common-api/target/classes
+2020-12-03 23:31:29,595 [Worker-253: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.thoughtworks.qdox:qdox:jar:2.0-M9 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2020-12-03 23:31:29,665 [Worker-253: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mgf.boot.dubbo:user-service:0.0.1-SNAPSHOT @ E:\workspace\eclipse\springcloud-alibaba\springboot-dubbo-consumer\pom.xml.
+2020-12-03 23:31:29,870 [Worker-253: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for io.netty:netty-all:jar:4.1.53.Final is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2020-12-03 23:31:29,954 [Worker-253: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/dubbo-common-api: com.mgf.dubbo:common-api:0.0.1-SNAPSHOT with classifier  to /dubbo-common-api/target/classes
+2020-12-03 23:31:30,120 [Worker-253: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-03 23:31:30,121 [Worker-253: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-03 23:31:30,122 [Worker-253: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-03 23:31:30,123 [Worker-253: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-03 23:31:30,123 [Worker-253: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace\eclipse\springcloud-alibaba\springboot-dubbo-consumer\src\test\resources
+2020-12-03 23:31:31,156 [Worker-254: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for io.netty:netty-all:jar:4.1.53.Final is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2020-12-03 23:31:31,205 [Worker-254: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/dubbo-common-api: com.mgf.dubbo:common-api:0.0.1-SNAPSHOT with classifier  to /dubbo-common-api/target/classes
+2020-12-03 23:31:31,211 [Worker-254: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-03 23:31:31,212 [Worker-254: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-03 23:31:31,213 [Worker-254: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-03 23:31:31,214 [Worker-254: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-03 23:31:31,214 [Worker-254: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace\eclipse\springcloud-alibaba\springboot-dubbo-consumer\src\test\resources
+2020-12-03 23:31:54,287 [Worker-255: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-03 23:31:54,288 [Worker-255: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-03 23:31:54,289 [Worker-255: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-03 23:31:54,290 [Worker-255: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-03 23:31:54,290 [Worker-255: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace\eclipse\springcloud-alibaba\springboot-dubbo-consumer\src\test\resources
+2020-12-03 23:33:21,080 [Worker-241: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mgf.boot.dubbo:provider:0.0.1-SNAPSHOT @ E:\workspace\eclipse\springcloud-alibaba\springboot-dubbo-provider\pom.xml.
+2020-12-03 23:33:21,263 [Worker-241: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for io.netty:netty-all:jar:4.1.53.Final is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2020-12-03 23:33:21,363 [Worker-241: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/dubbo-common-api: com.mgf.dubbo:common-api:0.0.1-SNAPSHOT with classifier  to /dubbo-common-api/target/classes
+2020-12-03 23:33:21,661 [Worker-241: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-03 23:33:21,661 [Worker-241: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-03 23:33:21,661 [Worker-241: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-03 23:33:21,661 [Worker-241: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-03 23:33:21,661 [Worker-241: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace\eclipse\springcloud-alibaba\springboot-dubbo-provider\src\test\resources
+2020-12-03 23:33:34,020 [Worker-255: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mgf.boot.dubbo:comsummer:0.0.1-SNAPSHOT @ E:\workspace\eclipse\springcloud-alibaba\springboot-dubbo-consumer\pom.xml.
+2020-12-03 23:33:34,169 [Worker-255: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for io.netty:netty-all:jar:4.1.53.Final is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2020-12-03 23:33:34,218 [Worker-255: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/dubbo-common-api: com.mgf.dubbo:common-api:0.0.1-SNAPSHOT with classifier  to /dubbo-common-api/target/classes
+2020-12-03 23:33:34,540 [Worker-255: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-03 23:33:34,540 [Worker-255: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-03 23:33:34,540 [Worker-255: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-03 23:33:34,541 [Worker-255: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-03 23:33:34,541 [Worker-255: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace\eclipse\springcloud-alibaba\springboot-dubbo-consumer\src\test\resources
+2020-12-03 23:33:48,179 [Worker-257: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mgf.boot.dubbo:comsummer:0.0.1-SNAPSHOT @ E:\workspace\eclipse\springcloud-alibaba\springboot-dubbo-consumer\pom.xml.
+2020-12-03 23:33:48,197 [Worker-241: reload maven project] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for io.netty:netty-all:jar:4.1.53.Final is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2020-12-03 23:33:48,255 [Worker-241: reload maven project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/dubbo-common-api: com.mgf.dubbo:common-api:0.0.1-SNAPSHOT with classifier  to /dubbo-common-api/target/classes
+2020-12-03 23:33:48,315 [Worker-257: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for io.netty:netty-all:jar:4.1.53.Final is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2020-12-03 23:33:48,355 [Worker-257: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/dubbo-common-api: com.mgf.dubbo:common-api:0.0.1-SNAPSHOT with classifier  to /dubbo-common-api/target/classes
+2020-12-03 23:33:48,683 [Worker-257: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-03 23:33:48,683 [Worker-257: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-03 23:33:48,684 [Worker-257: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-03 23:33:48,684 [Worker-257: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-03 23:33:48,684 [Worker-257: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace\eclipse\springcloud-alibaba\springboot-dubbo-consumer\src\test\resources
+2020-12-03 23:34:17,892 [Worker-241: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for io.netty:netty-all:jar:4.1.53.Final is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2020-12-03 23:34:17,940 [Worker-241: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/dubbo-common-api: com.mgf.dubbo:common-api:0.0.1-SNAPSHOT with classifier  to /dubbo-common-api/target/classes
+2020-12-03 23:34:17,946 [Worker-241: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-03 23:34:17,946 [Worker-241: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-03 23:34:17,947 [Worker-241: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-03 23:34:17,948 [Worker-241: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-03 23:34:17,948 [Worker-241: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace\eclipse\springcloud-alibaba\springboot-dubbo-consumer\src\test\resources
+2020-12-03 23:34:28,611 [Worker-241: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-03 23:34:28,611 [Worker-241: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-03 23:34:28,612 [Worker-241: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-03 23:34:28,612 [Worker-241: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-03 23:34:28,613 [Worker-241: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace\eclipse\springcloud-alibaba\springboot-dubbo-consumer\src\test\resources
+2020-12-03 23:35:00,275 [Worker-250: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-03 23:35:00,276 [Worker-250: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-03 23:35:00,277 [Worker-250: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-03 23:35:00,279 [Worker-250: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-03 23:35:00,279 [Worker-250: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace\eclipse\springcloud-alibaba\springboot-dubbo-consumer\src\test\resources
+2020-12-03 23:35:37,564 [Worker-256: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-03 23:35:37,565 [Worker-256: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-03 23:35:37,567 [Worker-256: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-03 23:35:37,568 [Worker-256: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-03 23:35:37,568 [Worker-256: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace\eclipse\springcloud-alibaba\springboot-dubbo-consumer\src\test\resources
+2020-12-03 23:38:58,695 [Worker-256: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-03 23:38:58,696 [Worker-256: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-03 23:38:58,697 [Worker-256: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-03 23:38:58,741 [Worker-256: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-03 23:38:58,741 [Worker-256: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace\eclipse\springcloud-alibaba\springboot-dubbo-consumer\src\test\resources
+2020-12-03 23:39:11,280 [Worker-257: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-03 23:39:11,281 [Worker-257: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-03 23:39:11,282 [Worker-257: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-03 23:39:11,283 [Worker-257: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-03 23:39:11,283 [Worker-257: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace\eclipse\springcloud-alibaba\springboot-dubbo-consumer\src\test\resources
+2020-12-03 23:39:33,686 [Worker-241: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-03 23:39:33,686 [Worker-241: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-03 23:39:33,687 [Worker-241: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-03 23:39:33,688 [Worker-241: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-03 23:39:33,688 [Worker-241: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace\eclipse\springcloud-alibaba\springboot-dubbo-consumer\src\test\resources
+2020-12-03 23:39:36,826 [Worker-257: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-03 23:39:36,826 [Worker-257: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-03 23:39:36,827 [Worker-257: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-03 23:39:36,828 [Worker-257: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-03 23:39:36,828 [Worker-257: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace\eclipse\springcloud-alibaba\springboot-dubbo-consumer\src\test\resources
+2020-12-03 23:40:12,877 [Worker-254: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-03 23:40:12,878 [Worker-254: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-03 23:40:12,879 [Worker-254: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-03 23:40:12,879 [Worker-254: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-03 23:40:12,879 [Worker-254: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace\eclipse\springcloud-alibaba\springboot-dubbo-consumer\src\test\resources
+2020-12-03 23:40:27,112 [Worker-257: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-03 23:40:27,113 [Worker-257: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-03 23:40:27,114 [Worker-257: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-03 23:40:27,115 [Worker-257: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-03 23:40:27,115 [Worker-257: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace\eclipse\springcloud-alibaba\springboot-dubbo-consumer\src\test\resources
+2020-12-03 23:40:50,677 [Worker-258: Check for devtools] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for io.netty:netty-all:jar:4.1.53.Final is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2020-12-03 23:40:50,763 [Worker-258: Check for devtools] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/dubbo-common-api: com.mgf.dubbo:common-api:0.0.1-SNAPSHOT with classifier  to /dubbo-common-api/target/classes
+2020-12-03 23:40:54,787 [Worker-257: Launching springboot-dubbo-provider - ProviderApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/dubbo-common-api: com.mgf.dubbo:common-api:0.0.1-SNAPSHOT with classifier null to /dubbo-common-api/target/classes
+2020-12-03 23:40:54,819 [Worker-257: Launching springboot-dubbo-provider - ProviderApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/dubbo-common-api: com.mgf.dubbo:common-api:0.0.1-SNAPSHOT with classifier null to /dubbo-common-api/target/classes
+2020-12-03 23:41:06,288 [Worker-253: Launching springboot-dubbo-consumer - ConsumerApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/dubbo-common-api: com.mgf.dubbo:common-api:0.0.1-SNAPSHOT with classifier null to /dubbo-common-api/target/classes
+2020-12-03 23:41:06,313 [Worker-253: Launching springboot-dubbo-consumer - ConsumerApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/dubbo-common-api: com.mgf.dubbo:common-api:0.0.1-SNAPSHOT with classifier null to /dubbo-common-api/target/classes
+2020-12-03 23:41:52,145 [Worker-255: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-03 23:41:52,145 [Worker-255: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-03 23:41:52,146 [Worker-255: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-03 23:41:52,147 [Worker-255: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-03 23:41:52,147 [Worker-255: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\workspace\eclipse\springcloud-alibaba\springboot-dubbo-consumer\src\test\resources
+2020-12-03 23:42:01,244 [Worker-258: Launching springboot-dubbo-consumer - ConsumerApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/dubbo-common-api: com.mgf.dubbo:common-api:0.0.1-SNAPSHOT with classifier null to /dubbo-common-api/target/classes
+2020-12-03 23:42:01,271 [Worker-258: Launching springboot-dubbo-consumer - ConsumerApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/dubbo-common-api: com.mgf.dubbo:common-api:0.0.1-SNAPSHOT with classifier null to /dubbo-common-api/target/classes
