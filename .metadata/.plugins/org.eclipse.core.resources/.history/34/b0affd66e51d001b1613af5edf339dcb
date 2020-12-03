@@ -1,9 +1,0 @@
-server.port=8888
-server.servlet.context-path=/demo
-
-debug=true
-
-
-spring.redis.host=192.168.0.180
-spring.redis.port=6379
-

@@ -1,5 +1,0 @@
-package com.mgf.testImportSelector;
-
-public class MgfImportSelector implements ImportSelector{
-   
-}
