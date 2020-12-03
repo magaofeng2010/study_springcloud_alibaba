@@ -2,7 +2,7 @@ package com.mgf.dubbo.service;
 
 import com.mgf.dubbo.bean.Order;
 
-public interface OrderService {
+public interface IOrderService {
 
 	/**
 	 * 创建一个订单
